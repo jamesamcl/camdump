@@ -1,0 +1,30 @@
+{
+	"_tempDir": "/run/shm/camdump",
+	"tempDir": ".",
+	"cameras": [
+		{
+			"type": "rtmp",
+			"_rtmp_host": "192.168.1.114",
+			"_rtmp_port": 80,
+			"rtmp_host": "127.0.0.1",
+			"rtmp_port": 8990,
+			"rtmp_playpath": "ch0_0.264"
+		},
+		{
+			"type": "rtmp",
+			"_rtmp_host": "192.168.1.114",
+			"_rtmp_port": 80,
+			"rtmp_host": "127.0.0.1",
+			"rtmp_port": 8990,
+			"rtmp_playpath": "ch1_0.264"
+		},
+			{
+			"type": "rtmp",
+			"_rtmp_host": "192.168.1.114",
+			"_rtmp_port": 80,
+			"rtmp_host": "127.0.0.1",
+			"rtmp_port": 8990,
+			"rtmp_playpath": "ch2_0.264"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "camdump",
+  "version": "0.1.0",
+  "description": "apt install rtmpdump imagemagick ffmpeg",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "im-decode": "^0.1.2",
+    "motion-detect": "^0.2.5"
+  }
+}
