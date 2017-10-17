@@ -2,5 +2,6 @@
 *.jpeg
 node_modules
 package-lock.json
+upload.sh
 
 

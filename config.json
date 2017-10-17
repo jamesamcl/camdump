@@ -1,6 +1,7 @@
 {
 	"_tempDir": "/run/shm/camdump",
 	"tempDir": ".",
+	"uploader": "./upload.sh",
 	"cameras": [
 		{
 			"type": "rtmp",
